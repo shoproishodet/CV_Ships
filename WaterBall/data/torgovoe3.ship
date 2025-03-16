@@ -1,0 +1,8 @@
+name:Торговое\n судно 3
+can_id:7
+length_cm:55
+nose_magnet_offset_cm:19
+tail_magnet_offset_cm:7
+icon:data\\ship_7.jpg
+speed:0.5
+traj_curve:0

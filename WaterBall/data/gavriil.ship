@@ -1,0 +1,8 @@
+name:линкор Гавриил\n 1713 66-пуш
+can_id:3
+length_cm:82
+nose_magnet_offset_cm:27
+tail_magnet_offset_cm:16
+icon:data\\ship_3.jpg
+speed:0.5
+traj_curve:3

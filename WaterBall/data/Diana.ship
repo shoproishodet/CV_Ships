@@ -1,0 +1,8 @@
+name:яхта Диана
+can_id:6
+length_cm:47
+nose_magnet_offset_cm:17
+tail_magnet_offset_cm:8
+icon:data\\ship_6.jpg
+speed:0.5
+traj_curve:0

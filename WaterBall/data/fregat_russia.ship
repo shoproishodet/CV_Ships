@@ -1,0 +1,8 @@
+name:фрегат Россия\n 1724 32-пуш
+can_id:2
+length_cm:59
+nose_magnet_offset_cm:16
+tail_magnet_offset_cm:8
+icon:data\\ship_2.jpg
+speed:0.35
+traj_curve:3

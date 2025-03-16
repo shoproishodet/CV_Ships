@@ -1,0 +1,3 @@
+update system_settings set value=5 where name='pwm_freq';
+
+select * from system_settings;

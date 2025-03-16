@@ -1,0 +1,264 @@
+(15d-4m-2023y 3h:26m:34s.293ms):: ::CLOG->constructor
+(15d-4m-2023y 3h:26m:34s.293ms):: ::PROFILER constructor
+(15d-4m-2023y 3h:26m:34s.308ms):: ::Host:'Home' have 1 local addr
+(15d-4m-2023y 3h:26m:34s.308ms):: ::IP: 192.168.1.8
+(15d-4m-2023y 3h:26m:34s.308ms):: ::start server on '192.168.1.8:5555'
+(15d-4m-2023y 3h:26m:34s.308ms):: ::load ship config [Bajennix.ship]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read ship name [Торговое судно 2]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read ship can_id [5]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [55]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [27]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [9]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [data\\ship_5.jpg]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [0.300000]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [1073741824]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::load ship config [Diana.ship]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read ship name [яхта Диана]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read ship can_id [6]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [47]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [17]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [8]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [data\\ship_6.jpg]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [0.500000]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [0]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::load ship config [evstafij.ship]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read ship name [Евстафий Плакида 
+ 1763 66-пуш]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read ship can_id [4]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [74]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [25]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [13]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [data\\ship_4.jpg]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [0.500000]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [0]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::load ship config [fregat_russia.ship]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read ship name [фрегат Россия 
+ 1724 32-пуш]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read ship can_id [2]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [59]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [16]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [8]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [data\\ship_2.jpg]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [0.350000]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [1610612736]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::load ship config [gavriil.ship]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read ship name [линкор Гавриил 
+ 1713 66-пуш]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read ship can_id [3]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [82]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [27]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [16]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [data\\ship_3.jpg]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [0.500000]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [0]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::load ship config [torgovoe3.ship]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read ship name [Торговое 
+ судно 3]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read ship can_id [7]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [55]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [19]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [7]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [data\\ship_7.jpg]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [0.500000]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [0]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::load ship config [tor_sudno.ship]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read ship name [Торговое 
+ судно 1]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read ship can_id [1]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [46]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [15]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [4]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [data\\ship_1.jpg]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [0.500000]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::read [0]
+(15d-4m-2023y 3h:26m:34s.308ms):: ::----init ExcludeBlobs
+(15d-4m-2023y 3h:26m:34s.308ms):: ::CAPM init
+(15d-4m-2023y 3h:26m:34s.371ms):: ::--------- start init loop ---------
+(15d-4m-2023y 3h:26m:34s.371ms):: ::OS:Windows 8 build[9200] Ver[6/2] SP[0/0]
+(15d-4m-2023y 3h:26m:34s.371ms):: ::Computer name: HOME
+(15d-4m-2023y 3h:26m:34s.371ms):: ::OEM ID: 0, 8 processors, Page size: 4096, Processor type: 586
+(15d-4m-2023y 3h:26m:34s.371ms):: ::Create OpenGL Window [1920x1080] fullscreen
+(15d-4m-2023y 3h:26m:34s.731ms):: ::OpenGl 4.4.0
+(15d-4m-2023y 3h:26m:34s.731ms):: ::Vendor NVIDIA Corporation
+(15d-4m-2023y 3h:26m:34s.731ms):: ::Render GeForce GT 640/PCIe/SSE2
+(15d-4m-2023y 3h:26m:34s.731ms):: ::Vsync is off
+(15d-4m-2023y 3h:26m:34s.731ms):: ::MM::initialized
+(15d-4m-2023y 3h:26m:34s.731ms):: ::Font::create texture (256x256)128Kb
+(15d-4m-2023y 3h:26m:34s.731ms):: ::MM::register texture [Comic Sans MS] [t2]
+(15d-4m-2023y 3h:26m:34s.731ms):: ::Font::create texture (512x512)512Kb
+(15d-4m-2023y 3h:26m:34s.731ms):: ::MM::register texture [Consolas] [t3]
+(15d-4m-2023y 3h:26m:34s.731ms)::ERROR::mode == 1
+(15d-4m-2023y 3h:26m:34s.731ms):: ::Thread::launch
+(15d-4m-2023y 3h:26m:34s.731ms):: ::Thread::launch
+(15d-4m-2023y 3h:26m:34s.731ms):: ::MM::initialized
+(15d-4m-2023y 3h:26m:34s.731ms):: ::DXF::load [CAD\base.dxf]
+(15d-4m-2023y 3h:26m:37s.356ms):: ::NET:Create():Binded on '192.168.1.8:5555'
+(15d-4m-2023y 3h:26m:37s.356ms):: ::waiting for connection
+(15d-4m-2023y 3h:26m:39s.278ms):: ::DXF::load [CAD\cam_centers.dxf]
+(15d-4m-2023y 3h:26m:39s.278ms):: ::DXF::load [CAD\relief.dxf]
+(15d-4m-2023y 3h:26m:39s.278ms):: ::DXF::load [CAD\shore.dxf]
+(15d-4m-2023y 3h:26m:39s.278ms):: ::DXF::load [CAD\coils.dxf]
+(15d-4m-2023y 3h:26m:39s.341ms):: ::DXF::load [CAD\cam_pos.dxf]
+(15d-4m-2023y 3h:26m:41s.805ms):: ::UI::Init()
+(15d-4m-2023y 3h:26m:41s.805ms):: ::Font::create texture (256x128)64Kb
+(15d-4m-2023y 3h:26m:41s.807ms):: ::MM::register texture [MS Sans Serif] [t5]
+(15d-4m-2023y 3h:26m:41s.807ms):: ::reinit UI
+(15d-4m-2023y 3h:26m:41s.807ms):: ::load trajectory default.traj
+(15d-4m-2023y 3h:26m:41s.808ms):: ::start load cmaps
+(15d-4m-2023y 3h:26m:41s.808ms):: ::load [data\curve0.cmap]
+(15d-4m-2023y 3h:26m:41s.808ms):: ::load [data\curve1.cmap]
+(15d-4m-2023y 3h:26m:41s.808ms):: ::load [data\curve2.cmap]
+(15d-4m-2023y 3h:26m:41s.808ms):: ::load [data\curve3.cmap]
+(15d-4m-2023y 3h:26m:41s.808ms)::ERROR::can't open [data\curve3.cmap]
+(15d-4m-2023y 3h:26m:41s.808ms):: ::load [data\curve4.cmap]
+(15d-4m-2023y 3h:26m:41s.808ms)::ERROR::can't open [data\curve4.cmap]
+(15d-4m-2023y 3h:26m:41s.808ms):: ::load [data\curve5.cmap]
+(15d-4m-2023y 3h:26m:41s.808ms)::ERROR::can't open [data\curve5.cmap]
+(15d-4m-2023y 3h:26m:41s.808ms):: ::load [data\curve6.cmap]
+(15d-4m-2023y 3h:26m:41s.808ms)::ERROR::can't open [data\curve6.cmap]
+(15d-4m-2023y 3h:26m:41s.808ms):: ::load [data\curve7.cmap]
+(15d-4m-2023y 3h:26m:41s.808ms)::ERROR::can't open [data\curve7.cmap]
+(15d-4m-2023y 3h:26m:41s.808ms):: ::load [data\curve8.cmap]
+(15d-4m-2023y 3h:26m:41s.808ms)::ERROR::can't open [data\curve8.cmap]
+(15d-4m-2023y 3h:26m:41s.808ms):: ::load [data\curve9.cmap]
+(15d-4m-2023y 3h:26m:41s.808ms)::ERROR::can't open [data\curve9.cmap]
+(15d-4m-2023y 3h:26m:41s.808ms):: ::load [data\curve10.cmap]
+(15d-4m-2023y 3h:26m:41s.808ms)::ERROR::can't open [data\curve10.cmap]
+(15d-4m-2023y 3h:26m:41s.808ms):: ::load trajectory default.traj
+(15d-4m-2023y 3h:26m:41s.809ms):: ::Thread::launch
+(15d-4m-2023y 3h:26m:41s.809ms):: ::CTRL::ADD controller(0) total(1)
+(15d-4m-2023y 3h:26m:41s.809ms):: ::COM:: start thread at [COM3]
+(15d-4m-2023y 3h:26m:41s.809ms):: ::TRY OPEN COMPORT COM3
+(15d-4m-2023y 3h:26m:41s.809ms)::WARNING::W2C::enter loop 1
+(15d-4m-2023y 3h:26m:41s.809ms):: ::CTRL::ADD controller(1) total(2)
+(15d-4m-2023y 3h:26m:41s.809ms):: ::CTRL::ADD controller(2) total(3)
+(15d-4m-2023y 3h:26m:41s.809ms):: ::CTRL::ADD controller(3) total(4)
+(15d-4m-2023y 3h:26m:41s.809ms):: ::CTRL::ADD controller(4) total(5)
+(15d-4m-2023y 3h:26m:41s.809ms):: ::CTRL::ADD controller(5) total(6)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(6) total(7)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(7) total(8)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(8) total(9)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(9) total(10)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(10) total(11)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(11) total(12)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(12) total(13)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(13) total(14)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(14) total(15)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(15) total(16)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(16) total(17)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(17) total(18)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(18) total(19)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(19) total(20)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(20) total(21)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(21) total(22)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(22) total(23)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(23) total(24)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(24) total(25)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(25) total(26)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(26) total(27)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(27) total(28)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(28) total(29)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(29) total(30)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(30) total(31)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(31) total(32)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(32) total(33)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(33) total(34)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(34) total(35)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::CTRL::ADD controller(35) total(36)
+(15d-4m-2023y 3h:26m:41s.810ms):: ::LOADED 36 controllers
+(15d-4m-2023y 3h:26m:41s.811ms)::ERROR::EXBOX: loaded 138
+(15d-4m-2023y 3h:26m:41s.811ms):: ::Thread::launch
+(15d-4m-2023y 3h:26m:41s.811ms):: ::Thread::launch
+(15d-4m-2023y 3h:26m:41s.811ms)::WARNING::MCMD::enter loop
+(15d-4m-2023y 3h:26m:41s.811ms):: ::CoilsInit(example_callback)
+(15d-4m-2023y 3h:26m:41s.811ms):: ::ID_SHIP::START
+(15d-4m-2023y 3h:26m:41s.871ms):: ::Thread::launch
+(15d-4m-2023y 3h:26m:41s.871ms):: ::--------- start main loop ---------
+(15d-4m-2023y 3h:26m:41s.872ms)::WARNING::CAM::enter loop 0
+(15d-4m-2023y 3h:26m:41s.872ms):: ::init cameras 105(105)
+(15d-4m-2023y 3h:26m:41s.873ms):: ::HTTP_ping start loop thread for [192.168.1.254]
+(15d-4m-2023y 3h:26m:41s.941ms)::WARNING::CAM::exit loop 0
+(15d-4m-2023y 3h:26m:42s.8ms):: ::OPENNED COMPORT COM3
+(15d-4m-2023y 3h:26m:43s.84ms):: ::Menu Exit - stop all ships
+(15d-4m-2023y 3h:26m:43s.84ms)::ERROR::ALL Ships - Stop
+(15d-4m-2023y 3h:26m:43s.87ms):: ::--------- end main loop ---------
+(15d-4m-2023y 3h:26m:43s.87ms):: ::TURN OFF ALL COILS ml=1092
+(15d-4m-2023y 3h:26m:44s.142ms):: ::CoilsConnect();
+(15d-4m-2023y 3h:26m:44s.151ms)::ERROR::DEV_MODE=0
+(15d-4m-2023y 3h:26m:44s.342ms)::ERROR::controller 27 goes online, off_time=3sec 2.533ms
+(15d-4m-2023y 3h:26m:44s.342ms):: ::(1)controller 27 ONLINE
+(15d-4m-2023y 3h:26m:44s.343ms)::ERROR::controller 35 goes online, off_time=3sec 2.533ms
+(15d-4m-2023y 3h:26m:44s.343ms):: ::(1)controller 35 ONLINE
+(15d-4m-2023y 3h:26m:44s.343ms)::ERROR::controller 5 goes online, off_time=3sec 2.534ms
+(15d-4m-2023y 3h:26m:44s.343ms):: ::(1)controller 5 ONLINE
+(15d-4m-2023y 3h:26m:44s.344ms)::ERROR::controller 6 goes online, off_time=3sec 2.535ms
+(15d-4m-2023y 3h:26m:44s.344ms):: ::(1)controller 6 ONLINE
+(15d-4m-2023y 3h:26m:44s.345ms)::ERROR::controller 9 goes online, off_time=3sec 2.536ms
+(15d-4m-2023y 3h:26m:44s.345ms):: ::(1)controller 9 ONLINE
+(15d-4m-2023y 3h:26m:44s.345ms)::ERROR::controller 10 goes online, off_time=3sec 2.536ms
+(15d-4m-2023y 3h:26m:44s.345ms):: ::(1)controller 10 ONLINE
+(15d-4m-2023y 3h:26m:44s.346ms)::ERROR::controller 11 goes online, off_time=3sec 2.537ms
+(15d-4m-2023y 3h:26m:44s.346ms):: ::(1)controller 11 ONLINE
+(15d-4m-2023y 3h:26m:44s.346ms)::ERROR::controller 13 goes online, off_time=3sec 2.537ms
+(15d-4m-2023y 3h:26m:44s.346ms):: ::(1)controller 13 ONLINE
+(15d-4m-2023y 3h:26m:44s.347ms)::ERROR::controller 12 goes online, off_time=3sec 2.538ms
+(15d-4m-2023y 3h:26m:44s.347ms):: ::(1)controller 12 ONLINE
+(15d-4m-2023y 3h:26m:44s.348ms)::ERROR::controller 2 goes online, off_time=3sec 2.539ms
+(15d-4m-2023y 3h:26m:44s.348ms):: ::(1)controller 2 ONLINE
+(15d-4m-2023y 3h:26m:44s.348ms)::ERROR::controller 3 goes online, off_time=3sec 2.539ms
+(15d-4m-2023y 3h:26m:44s.348ms):: ::(1)controller 3 ONLINE
+(15d-4m-2023y 3h:26m:44s.349ms)::ERROR::controller 4 goes online, off_time=3sec 2.540ms
+(15d-4m-2023y 3h:26m:44s.349ms):: ::(1)controller 4 ONLINE
+(15d-4m-2023y 3h:26m:44s.350ms)::ERROR::controller 8 goes online, off_time=3sec 2.541ms
+(15d-4m-2023y 3h:26m:44s.350ms):: ::(1)controller 8 ONLINE
+(15d-4m-2023y 3h:26m:44s.351ms)::ERROR::controller 17 goes online, off_time=3sec 2.542ms
+(15d-4m-2023y 3h:26m:44s.351ms):: ::(1)controller 17 ONLINE
+(15d-4m-2023y 3h:26m:44s.352ms)::ERROR::controller 21 goes online, off_time=3sec 2.543ms
+(15d-4m-2023y 3h:26m:44s.352ms):: ::(1)controller 21 ONLINE
+(15d-4m-2023y 3h:26m:44s.353ms)::ERROR::controller 7 goes online, off_time=3sec 2.544ms
+(15d-4m-2023y 3h:26m:44s.353ms):: ::(1)controller 7 ONLINE
+(15d-4m-2023y 3h:26m:44s.354ms)::ERROR::controller 14 goes online, off_time=3sec 2.545ms
+(15d-4m-2023y 3h:26m:44s.354ms):: ::(1)controller 14 ONLINE
+(15d-4m-2023y 3h:26m:44s.355ms)::ERROR::controller 16 goes online, off_time=3sec 2.546ms
+(15d-4m-2023y 3h:26m:44s.355ms):: ::(1)controller 16 ONLINE
+(15d-4m-2023y 3h:26m:44s.359ms)::ERROR::controller 22 goes online, off_time=3sec 2.550ms
+(15d-4m-2023y 3h:26m:44s.359ms):: ::(1)controller 22 ONLINE
+(15d-4m-2023y 3h:26m:44s.363ms)::ERROR::controller 1 goes online, off_time=3sec 2.554ms
+(15d-4m-2023y 3h:26m:44s.363ms):: ::(1)controller 1 ONLINE
+(15d-4m-2023y 3h:26m:44s.369ms)::ERROR::controller 23 goes online, off_time=3sec 2.559ms
+(15d-4m-2023y 3h:26m:44s.369ms):: ::(1)controller 23 ONLINE
+(15d-4m-2023y 3h:26m:44s.373ms)::ERROR::controller 24 goes online, off_time=3sec 2.563ms
+(15d-4m-2023y 3h:26m:44s.373ms):: ::(1)controller 24 ONLINE
+(15d-4m-2023y 3h:26m:44s.375ms)::ERROR::controller 15 goes online, off_time=3sec 2.566ms
+(15d-4m-2023y 3h:26m:44s.375ms):: ::(1)controller 15 ONLINE
+(15d-4m-2023y 3h:26m:44s.375ms)::ERROR::controller 19 goes online, off_time=3sec 2.566ms
+(15d-4m-2023y 3h:26m:44s.375ms):: ::(1)controller 19 ONLINE
+(15d-4m-2023y 3h:26m:44s.376ms)::ERROR::controller 20 goes online, off_time=3sec 2.567ms
+(15d-4m-2023y 3h:26m:44s.376ms):: ::(1)controller 20 ONLINE
+(15d-4m-2023y 3h:26m:44s.376ms)::ERROR::controller 25 goes online, off_time=3sec 2.567ms
+(15d-4m-2023y 3h:26m:44s.376ms):: ::(1)controller 25 ONLINE
+(15d-4m-2023y 3h:26m:44s.377ms)::ERROR::controller 26 goes online, off_time=3sec 2.568ms
+(15d-4m-2023y 3h:26m:44s.377ms):: ::(1)controller 26 ONLINE
+(15d-4m-2023y 3h:26m:44s.378ms)::ERROR::controller 28 goes online, off_time=3sec 2.569ms
+(15d-4m-2023y 3h:26m:44s.378ms):: ::(1)controller 28 ONLINE
+(15d-4m-2023y 3h:26m:44s.379ms)::ERROR::controller 29 goes online, off_time=3sec 2.570ms
+(15d-4m-2023y 3h:26m:44s.379ms):: ::(1)controller 29 ONLINE
+(15d-4m-2023y 3h:26m:44s.380ms)::ERROR::controller 30 goes online, off_time=3sec 2.570ms
+(15d-4m-2023y 3h:26m:44s.380ms):: ::(1)controller 30 ONLINE
+(15d-4m-2023y 3h:26m:44s.380ms)::ERROR::controller 31 goes online, off_time=3sec 2.571ms
+(15d-4m-2023y 3h:26m:44s.380ms):: ::(1)controller 31 ONLINE
+(15d-4m-2023y 3h:26m:44s.381ms)::ERROR::controller 32 goes online, off_time=3sec 2.572ms
+(15d-4m-2023y 3h:26m:44s.381ms):: ::(1)controller 32 ONLINE
+(15d-4m-2023y 3h:26m:44s.382ms)::ERROR::controller 33 goes online, off_time=3sec 2.572ms
+(15d-4m-2023y 3h:26m:44s.382ms):: ::(1)controller 33 ONLINE
+(15d-4m-2023y 3h:26m:44s.382ms)::ERROR::controller 34 goes online, off_time=3sec 2.573ms
+(15d-4m-2023y 3h:26m:44s.382ms):: ::(1)controller 34 ONLINE
+(15d-4m-2023y 3h:26m:44s.383ms)::ERROR::controller 36 goes online, off_time=3sec 2.574ms
+(15d-4m-2023y 3h:26m:44s.383ms):: ::(1)controller 36 ONLINE
+(15d-4m-2023y 3h:26m:45s.355ms)::WARNING::MCMD::exit loop
+(15d-4m-2023y 3h:26m:45s.465ms):: ::CoilsDisconnect();CoilsExit();
+(15d-4m-2023y 3h:26m:45s.476ms):: ::MM::Unload Begin()
+(15d-4m-2023y 3h:26m:45s.476ms):: ::MM::Tex0:[CheckerBoard.gen]
+(15d-4m-2023y 3h:26m:45s.476ms):: ::MM::Tex1:[MS Sans Serif]
+(15d-4m-2023y 3h:26m:45s.476ms):: ::MM::Unload End()
+(15d-4m-2023y 3h:26m:45s.476ms):: ::_exit(1)

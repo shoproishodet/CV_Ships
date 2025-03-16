@@ -1,0 +1,515 @@
+(8d-2m-2020y 19h:2m:11s.305ms):: ::CLOG->constructor
+(8d-2m-2020y 19h:2m:11s.305ms):: ::PROFILER constructor
+(8d-2m-2020y 19h:2m:11s.320ms):: ::Host:'Home' have 1 local addr
+(8d-2m-2020y 19h:2m:11s.320ms):: ::IP: 192.168.1.8
+(8d-2m-2020y 19h:2m:11s.320ms):: ::start server on '192.168.1.8:5555'
+(8d-2m-2020y 19h:2m:11s.320ms):: ::NET:Create():Binded on '192.168.1.8:5555'
+(8d-2m-2020y 19h:2m:11s.320ms):: ::waiting for connection
+(8d-2m-2020y 19h:2m:11s.320ms):: ::load ship config [Bajennix.ship]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read ship name [Торговое судно 2]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read ship can_id [5]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [55]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [27]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [9]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [data\\ship_5.jpg]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [0.300000]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [1073741824]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::load ship config [Diana.ship]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read ship name [яхта Диана]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read ship can_id [6]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [47]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [17]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [8]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [data\\ship_6.jpg]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [0.500000]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [0]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::load ship config [evstafij.ship]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read ship name [Евстафий Плакида 
+ 1763 66-пуш]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read ship can_id [4]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [74]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [25]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [13]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [data\\ship_4.jpg]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [0.500000]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [0]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::load ship config [fregat_russia.ship]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read ship name [фрегат Россия 
+ 1724 32-пуш]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read ship can_id [2]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [59]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [16]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [8]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [data\\ship_2.jpg]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [0.350000]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [1610612736]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::load ship config [gavriil.ship]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read ship name [линкор Гавриил 
+ 1713 66-пуш]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read ship can_id [3]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [82]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [27]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [16]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [data\\ship_3.jpg]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [0.500000]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [0]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::load ship config [torgovoe3.ship]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read ship name [Торговое 
+ судно 3]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read ship can_id [7]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [55]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [19]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [7]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [data\\ship_7.jpg]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [0.500000]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [0]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::load ship config [tor_sudno.ship]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read ship name [Торговое 
+ судно 1]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read ship can_id [1]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [46]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [15]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [4]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [data\\ship_1.jpg]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [0.500000]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::read [0]
+(8d-2m-2020y 19h:2m:11s.320ms):: ::----init ExcludeBlobs
+(8d-2m-2020y 19h:2m:11s.320ms):: ::CAPM init
+(8d-2m-2020y 19h:2m:11s.398ms):: ::--------- start init loop ---------
+(8d-2m-2020y 19h:2m:11s.398ms):: ::OS:Windows 8 build[9200] Ver[6/2] SP[0/0]
+(8d-2m-2020y 19h:2m:11s.398ms):: ::Computer name: HOME
+(8d-2m-2020y 19h:2m:11s.398ms):: ::OEM ID: 0, 8 processors, Page size: 4096, Processor type: 586
+(8d-2m-2020y 19h:2m:11s.398ms):: ::Create OpenGL Window [1920x1080] fullscreen
+(8d-2m-2020y 19h:2m:12s.152ms):: ::OpenGl 4.4.0
+(8d-2m-2020y 19h:2m:12s.152ms):: ::Vendor NVIDIA Corporation
+(8d-2m-2020y 19h:2m:12s.152ms):: ::Render GeForce GT 640/PCIe/SSE2
+(8d-2m-2020y 19h:2m:12s.152ms):: ::Vsync is off
+(8d-2m-2020y 19h:2m:12s.152ms):: ::MM::initialized
+(8d-2m-2020y 19h:2m:12s.152ms):: ::Font::create texture (256x256)128Kb
+(8d-2m-2020y 19h:2m:12s.167ms):: ::MM::register texture [Comic Sans MS] [t2]
+(8d-2m-2020y 19h:2m:12s.167ms):: ::Font::create texture (512x512)512Kb
+(8d-2m-2020y 19h:2m:12s.167ms):: ::MM::register texture [Consolas] [t3]
+(8d-2m-2020y 19h:2m:12s.433ms)::ERROR::mode == 1
+(8d-2m-2020y 19h:2m:12s.433ms):: ::Thread::launch
+(8d-2m-2020y 19h:2m:12s.433ms):: ::Thread::launch
+(8d-2m-2020y 19h:2m:12s.433ms):: ::MM::initialized
+(8d-2m-2020y 19h:2m:12s.433ms):: ::DXF::load [CAD\base.dxf]
+(8d-2m-2020y 19h:2m:17s.449ms):: ::DXF::load [CAD\cam_centers.dxf]
+(8d-2m-2020y 19h:2m:17s.465ms):: ::DXF::load [CAD\relief.dxf]
+(8d-2m-2020y 19h:2m:17s.480ms):: ::DXF::load [CAD\shore.dxf]
+(8d-2m-2020y 19h:2m:17s.496ms):: ::DXF::load [CAD\coils.dxf]
+(8d-2m-2020y 19h:2m:17s.558ms):: ::DXF::load [CAD\cam_pos.dxf]
+(8d-2m-2020y 19h:2m:21s.45ms):: ::UI::Init()
+(8d-2m-2020y 19h:2m:21s.45ms):: ::Font::create texture (256x128)64Kb
+(8d-2m-2020y 19h:2m:21s.48ms):: ::MM::register texture [MS Sans Serif] [t5]
+(8d-2m-2020y 19h:2m:21s.48ms):: ::reinit UI
+(8d-2m-2020y 19h:2m:21s.55ms):: ::load trajectory default.traj
+(8d-2m-2020y 19h:2m:21s.60ms):: ::start load cmaps
+(8d-2m-2020y 19h:2m:21s.60ms):: ::load [data\curve0.cmap]
+(8d-2m-2020y 19h:2m:21s.64ms):: ::load [data\curve1.cmap]
+(8d-2m-2020y 19h:2m:21s.69ms):: ::load [data\curve2.cmap]
+(8d-2m-2020y 19h:2m:21s.74ms):: ::load [data\curve3.cmap]
+(8d-2m-2020y 19h:2m:21s.78ms)::ERROR::can't open [data\curve3.cmap]
+(8d-2m-2020y 19h:2m:21s.78ms):: ::load [data\curve4.cmap]
+(8d-2m-2020y 19h:2m:21s.83ms)::ERROR::can't open [data\curve4.cmap]
+(8d-2m-2020y 19h:2m:21s.83ms):: ::load [data\curve5.cmap]
+(8d-2m-2020y 19h:2m:21s.87ms)::ERROR::can't open [data\curve5.cmap]
+(8d-2m-2020y 19h:2m:21s.87ms):: ::load [data\curve6.cmap]
+(8d-2m-2020y 19h:2m:21s.88ms)::ERROR::can't open [data\curve6.cmap]
+(8d-2m-2020y 19h:2m:21s.88ms):: ::load [data\curve7.cmap]
+(8d-2m-2020y 19h:2m:21s.88ms)::ERROR::can't open [data\curve7.cmap]
+(8d-2m-2020y 19h:2m:21s.88ms):: ::load [data\curve8.cmap]
+(8d-2m-2020y 19h:2m:21s.88ms)::ERROR::can't open [data\curve8.cmap]
+(8d-2m-2020y 19h:2m:21s.88ms):: ::load [data\curve9.cmap]
+(8d-2m-2020y 19h:2m:21s.88ms)::ERROR::can't open [data\curve9.cmap]
+(8d-2m-2020y 19h:2m:21s.88ms):: ::load [data\curve10.cmap]
+(8d-2m-2020y 19h:2m:21s.89ms)::ERROR::can't open [data\curve10.cmap]
+(8d-2m-2020y 19h:2m:21s.89ms):: ::load trajectory default.traj
+(8d-2m-2020y 19h:2m:21s.91ms):: ::Thread::launch
+(8d-2m-2020y 19h:2m:21s.92ms):: ::COM:: start thread at [COM3]
+(8d-2m-2020y 19h:2m:21s.92ms):: ::TRY OPEN COMPORT COM3
+(8d-2m-2020y 19h:2m:21s.92ms)::WARNING::W2C::enter loop 1
+(8d-2m-2020y 19h:2m:21s.92ms):: ::CTRL::ADD controller(0) total(1)
+(8d-2m-2020y 19h:2m:21s.93ms):: ::CTRL::ADD controller(1) total(2)
+(8d-2m-2020y 19h:2m:21s.93ms):: ::CTRL::ADD controller(2) total(3)
+(8d-2m-2020y 19h:2m:21s.93ms):: ::CTRL::ADD controller(3) total(4)
+(8d-2m-2020y 19h:2m:21s.93ms):: ::CTRL::ADD controller(4) total(5)
+(8d-2m-2020y 19h:2m:21s.93ms):: ::CTRL::ADD controller(5) total(6)
+(8d-2m-2020y 19h:2m:21s.93ms):: ::CTRL::ADD controller(6) total(7)
+(8d-2m-2020y 19h:2m:21s.93ms):: ::CTRL::ADD controller(7) total(8)
+(8d-2m-2020y 19h:2m:21s.93ms):: ::CTRL::ADD controller(8) total(9)
+(8d-2m-2020y 19h:2m:21s.93ms):: ::CTRL::ADD controller(9) total(10)
+(8d-2m-2020y 19h:2m:21s.94ms):: ::CTRL::ADD controller(10) total(11)
+(8d-2m-2020y 19h:2m:21s.94ms):: ::CTRL::ADD controller(11) total(12)
+(8d-2m-2020y 19h:2m:21s.94ms):: ::CTRL::ADD controller(12) total(13)
+(8d-2m-2020y 19h:2m:21s.94ms):: ::CTRL::ADD controller(13) total(14)
+(8d-2m-2020y 19h:2m:21s.94ms):: ::CTRL::ADD controller(14) total(15)
+(8d-2m-2020y 19h:2m:21s.94ms):: ::CTRL::ADD controller(15) total(16)
+(8d-2m-2020y 19h:2m:21s.94ms):: ::CTRL::ADD controller(16) total(17)
+(8d-2m-2020y 19h:2m:21s.94ms):: ::CTRL::ADD controller(17) total(18)
+(8d-2m-2020y 19h:2m:21s.94ms):: ::CTRL::ADD controller(18) total(19)
+(8d-2m-2020y 19h:2m:21s.94ms):: ::CTRL::ADD controller(19) total(20)
+(8d-2m-2020y 19h:2m:21s.94ms):: ::CTRL::ADD controller(20) total(21)
+(8d-2m-2020y 19h:2m:21s.95ms):: ::CTRL::ADD controller(21) total(22)
+(8d-2m-2020y 19h:2m:21s.95ms):: ::CTRL::ADD controller(22) total(23)
+(8d-2m-2020y 19h:2m:21s.95ms):: ::CTRL::ADD controller(23) total(24)
+(8d-2m-2020y 19h:2m:21s.95ms):: ::CTRL::ADD controller(24) total(25)
+(8d-2m-2020y 19h:2m:21s.95ms):: ::CTRL::ADD controller(25) total(26)
+(8d-2m-2020y 19h:2m:21s.95ms):: ::CTRL::ADD controller(26) total(27)
+(8d-2m-2020y 19h:2m:21s.95ms):: ::CTRL::ADD controller(27) total(28)
+(8d-2m-2020y 19h:2m:21s.95ms):: ::CTRL::ADD controller(28) total(29)
+(8d-2m-2020y 19h:2m:21s.95ms):: ::CTRL::ADD controller(29) total(30)
+(8d-2m-2020y 19h:2m:21s.96ms):: ::CTRL::ADD controller(30) total(31)
+(8d-2m-2020y 19h:2m:21s.96ms):: ::CTRL::ADD controller(31) total(32)
+(8d-2m-2020y 19h:2m:21s.96ms):: ::CTRL::ADD controller(32) total(33)
+(8d-2m-2020y 19h:2m:21s.96ms):: ::CTRL::ADD controller(33) total(34)
+(8d-2m-2020y 19h:2m:21s.96ms):: ::CTRL::ADD controller(34) total(35)
+(8d-2m-2020y 19h:2m:21s.96ms):: ::CTRL::ADD controller(35) total(36)
+(8d-2m-2020y 19h:2m:21s.96ms):: ::LOADED 36 controllers
+(8d-2m-2020y 19h:2m:21s.253ms)::ERROR::EXBOX: loaded 138
+(8d-2m-2020y 19h:2m:21s.258ms):: ::Thread::launch
+(8d-2m-2020y 19h:2m:21s.258ms):: ::Thread::launch
+(8d-2m-2020y 19h:2m:21s.259ms)::WARNING::MCMD::enter loop
+(8d-2m-2020y 19h:2m:21s.259ms):: ::ID_SHIP::START
+(8d-2m-2020y 19h:2m:21s.259ms):: ::CoilsInit(example_callback)
+(8d-2m-2020y 19h:2m:21s.288ms):: ::OPENNED COMPORT COM3
+(8d-2m-2020y 19h:2m:21s.325ms):: ::Thread::launch
+(8d-2m-2020y 19h:2m:21s.325ms):: ::--------- start main loop ---------
+(8d-2m-2020y 19h:2m:21s.325ms)::WARNING::CAM::enter loop 0
+(8d-2m-2020y 19h:2m:21s.325ms):: ::init cameras 105(105)
+(8d-2m-2020y 19h:2m:21s.327ms):: ::HTTP_ping start loop thread for [192.168.1.254]
+(8d-2m-2020y 19h:2m:21s.561ms)::WARNING::CAM::exit loop 0
+(8d-2m-2020y 19h:2m:23s.836ms):: ::CoilsConnect();
+(8d-2m-2020y 19h:2m:23s.836ms)::ERROR::DEV_MODE=0
+(8d-2m-2020y 19h:2m:23s.938ms)::ERROR::controller 12 goes online, off_time=3sec 2.845ms
+(8d-2m-2020y 19h:2m:23s.938ms):: ::(1)controller 12 ONLINE
+(8d-2m-2020y 19h:2m:23s.939ms)::ERROR::controller 30 goes online, off_time=3sec 2.843ms
+(8d-2m-2020y 19h:2m:23s.939ms):: ::(1)controller 30 ONLINE
+(8d-2m-2020y 19h:2m:23s.939ms)::ERROR::controller 25 goes online, off_time=3sec 2.845ms
+(8d-2m-2020y 19h:2m:23s.939ms):: ::(1)controller 25 ONLINE
+(8d-2m-2020y 19h:2m:23s.940ms)::ERROR::controller 5 goes online, off_time=3sec 2.847ms
+(8d-2m-2020y 19h:2m:23s.940ms):: ::(1)controller 5 ONLINE
+(8d-2m-2020y 19h:2m:23s.940ms)::ERROR::controller 14 goes online, off_time=3sec 2.846ms
+(8d-2m-2020y 19h:2m:23s.940ms):: ::(1)controller 14 ONLINE
+(8d-2m-2020y 19h:2m:23s.940ms)::ERROR::controller 18 goes online, off_time=3sec 2.846ms
+(8d-2m-2020y 19h:2m:23s.940ms):: ::(1)controller 18 ONLINE
+(8d-2m-2020y 19h:2m:23s.940ms)::ERROR::controller 8 goes online, off_time=3sec 2.847ms
+(8d-2m-2020y 19h:2m:23s.940ms):: ::(1)controller 8 ONLINE
+(8d-2m-2020y 19h:2m:23s.940ms)::ERROR::controller 10 goes online, off_time=3sec 2.847ms
+(8d-2m-2020y 19h:2m:23s.940ms):: ::(1)controller 10 ONLINE
+(8d-2m-2020y 19h:2m:23s.941ms)::ERROR::controller 2 goes online, off_time=3sec 2.848ms
+(8d-2m-2020y 19h:2m:23s.941ms):: ::(1)controller 2 ONLINE
+(8d-2m-2020y 19h:2m:23s.941ms)::ERROR::controller 17 goes online, off_time=3sec 2.847ms
+(8d-2m-2020y 19h:2m:23s.941ms):: ::(1)controller 17 ONLINE
+(8d-2m-2020y 19h:2m:23s.941ms)::ERROR::controller 7 goes online, off_time=3sec 2.849ms
+(8d-2m-2020y 19h:2m:23s.941ms):: ::(1)controller 7 ONLINE
+(8d-2m-2020y 19h:2m:23s.942ms)::ERROR::controller 15 goes online, off_time=3sec 2.849ms
+(8d-2m-2020y 19h:2m:23s.942ms):: ::(1)controller 15 ONLINE
+(8d-2m-2020y 19h:2m:23s.943ms)::ERROR::controller 9 goes online, off_time=3sec 2.850ms
+(8d-2m-2020y 19h:2m:23s.943ms):: ::(1)controller 9 ONLINE
+(8d-2m-2020y 19h:2m:23s.943ms)::ERROR::controller 13 goes online, off_time=3sec 2.850ms
+(8d-2m-2020y 19h:2m:23s.943ms):: ::(1)controller 13 ONLINE
+(8d-2m-2020y 19h:2m:23s.944ms)::ERROR::controller 19 goes online, off_time=3sec 2.850ms
+(8d-2m-2020y 19h:2m:23s.944ms):: ::(1)controller 19 ONLINE
+(8d-2m-2020y 19h:2m:23s.945ms)::ERROR::controller 21 goes online, off_time=3sec 2.850ms
+(8d-2m-2020y 19h:2m:23s.945ms):: ::(1)controller 21 ONLINE
+(8d-2m-2020y 19h:2m:23s.946ms)::ERROR::controller 22 goes online, off_time=3sec 2.851ms
+(8d-2m-2020y 19h:2m:23s.946ms):: ::(1)controller 22 ONLINE
+(8d-2m-2020y 19h:2m:23s.946ms)::ERROR::controller 23 goes online, off_time=3sec 2.852ms
+(8d-2m-2020y 19h:2m:23s.946ms):: ::(1)controller 23 ONLINE
+(8d-2m-2020y 19h:2m:23s.947ms)::ERROR::controller 3 goes online, off_time=3sec 2.855ms
+(8d-2m-2020y 19h:2m:23s.947ms):: ::(1)controller 3 ONLINE
+(8d-2m-2020y 19h:2m:23s.948ms)::ERROR::controller 4 goes online, off_time=3sec 2.855ms
+(8d-2m-2020y 19h:2m:23s.948ms):: ::(1)controller 4 ONLINE
+(8d-2m-2020y 19h:2m:23s.949ms)::ERROR::controller 24 goes online, off_time=3sec 2.855ms
+(8d-2m-2020y 19h:2m:23s.950ms):: ::(1)controller 24 ONLINE
+(8d-2m-2020y 19h:2m:23s.950ms)::ERROR::controller 1 goes online, off_time=3sec 2.858ms
+(8d-2m-2020y 19h:2m:23s.950ms):: ::(1)controller 1 ONLINE
+(8d-2m-2020y 19h:2m:23s.950ms)::ERROR::controller 6 goes online, off_time=3sec 2.857ms
+(8d-2m-2020y 19h:2m:23s.950ms):: ::(1)controller 6 ONLINE
+(8d-2m-2020y 19h:2m:23s.951ms)::ERROR::controller 11 goes online, off_time=3sec 2.858ms
+(8d-2m-2020y 19h:2m:23s.951ms):: ::(1)controller 11 ONLINE
+(8d-2m-2020y 19h:2m:23s.954ms)::ERROR::controller 16 goes online, off_time=3sec 2.860ms
+(8d-2m-2020y 19h:2m:23s.954ms):: ::(1)controller 16 ONLINE
+(8d-2m-2020y 19h:2m:23s.961ms)::ERROR::controller 20 goes online, off_time=3sec 2.866ms
+(8d-2m-2020y 19h:2m:23s.961ms):: ::(1)controller 20 ONLINE
+(8d-2m-2020y 19h:2m:23s.973ms)::ERROR::controller 26 goes online, off_time=3sec 2.879ms
+(8d-2m-2020y 19h:2m:23s.973ms):: ::(1)controller 26 ONLINE
+(8d-2m-2020y 19h:2m:23s.979ms)::ERROR::controller 27 goes online, off_time=3sec 2.884ms
+(8d-2m-2020y 19h:2m:23s.979ms):: ::(1)controller 27 ONLINE
+(8d-2m-2020y 19h:2m:23s.982ms)::ERROR::controller 28 goes online, off_time=3sec 2.887ms
+(8d-2m-2020y 19h:2m:23s.982ms):: ::(1)controller 28 ONLINE
+(8d-2m-2020y 19h:2m:23s.983ms)::ERROR::controller 29 goes online, off_time=3sec 2.887ms
+(8d-2m-2020y 19h:2m:23s.983ms):: ::(1)controller 29 ONLINE
+(8d-2m-2020y 19h:2m:23s.984ms)::ERROR::controller 31 goes online, off_time=3sec 2.889ms
+(8d-2m-2020y 19h:2m:23s.984ms):: ::(1)controller 31 ONLINE
+(8d-2m-2020y 19h:2m:23s.985ms)::ERROR::controller 32 goes online, off_time=3sec 2.890ms
+(8d-2m-2020y 19h:2m:23s.985ms):: ::(1)controller 32 ONLINE
+(8d-2m-2020y 19h:2m:23s.986ms)::ERROR::controller 33 goes online, off_time=3sec 2.891ms
+(8d-2m-2020y 19h:2m:23s.986ms):: ::(1)controller 33 ONLINE
+(8d-2m-2020y 19h:2m:23s.987ms)::ERROR::controller 34 goes online, off_time=3sec 2.891ms
+(8d-2m-2020y 19h:2m:23s.987ms):: ::(1)controller 34 ONLINE
+(8d-2m-2020y 19h:2m:23s.987ms)::ERROR::controller 35 goes online, off_time=3sec 2.892ms
+(8d-2m-2020y 19h:2m:23s.987ms):: ::(1)controller 35 ONLINE
+(8d-2m-2020y 19h:2m:23s.988ms)::ERROR::controller 36 goes online, off_time=3sec 2.892ms
+(8d-2m-2020y 19h:2m:23s.988ms):: ::(1)controller 36 ONLINE
+(8d-2m-2020y 19h:2m:26s.946ms)::ERROR::DEV_MODE=1
+(8d-2m-2020y 19h:2m:36s.303ms):: ::SM::add ship 0
+(8d-2m-2020y 19h:2m:36s.303ms):: ::init ship [0 1]
+(8d-2m-2020y 19h:2m:36s.307ms):: ::REstart detection for ship[0]
+(8d-2m-2020y 19h:2m:36s.307ms):: ::ship[i].crv_id = -1
+(8d-2m-2020y 19h:2m:36s.307ms):: ::ship_get_closest_curve:: use curve 3
+(8d-2m-2020y 19h:2m:36s.496ms):: ::SM::add ship 1
+(8d-2m-2020y 19h:2m:36s.496ms):: ::init ship [4 5]
+(8d-2m-2020y 19h:2m:36s.497ms):: ::ship[i].crv_id = -1
+(8d-2m-2020y 19h:2m:36s.497ms):: ::ship_get_closest_curve:: use curve 2
+(8d-2m-2020y 19h:2m:36s.514ms)::ERROR::(2)power alarm on controller 21
+(8d-2m-2020y 19h:2m:36s.689ms):: ::SM::add ship 2
+(8d-2m-2020y 19h:2m:36s.689ms):: ::init ship [6 8]
+(8d-2m-2020y 19h:2m:36s.692ms):: ::ship[i].crv_id = -1
+(8d-2m-2020y 19h:2m:36s.692ms):: ::ship_get_closest_curve:: use curve 1
+(8d-2m-2020y 19h:2m:37s.129ms):: ::SM::add ship 3
+(8d-2m-2020y 19h:2m:37s.129ms):: ::init ship [3 7]
+(8d-2m-2020y 19h:2m:37s.130ms):: ::ship[i].crv_id = -1
+(8d-2m-2020y 19h:2m:37s.130ms):: ::ship_get_closest_curve:: use curve 2
+(8d-2m-2020y 19h:2m:37s.277ms):: ::ID_SHIP::Search ship[?] id=1 for 10sec
+(8d-2m-2020y 19h:2m:37s.805ms):: ::SM::add ship 4
+(8d-2m-2020y 19h:2m:37s.805ms):: ::init ship [2 9]
+(8d-2m-2020y 19h:2m:37s.807ms):: ::ship[i].crv_id = -1
+(8d-2m-2020y 19h:2m:37s.807ms):: ::ship_get_closest_curve:: use curve 3
+(8d-2m-2020y 19h:2m:38s.828ms):: ::SM::add ship 5
+(8d-2m-2020y 19h:2m:38s.828ms):: ::init ship [11 12]
+(8d-2m-2020y 19h:2m:38s.836ms):: ::ship[i].crv_id = -1
+(8d-2m-2020y 19h:2m:38s.836ms):: ::ship_get_closest_curve:: use curve 2
+(8d-2m-2020y 19h:2m:43s.278ms):: ::DETECT:: ship(0) has 0 votes
+(8d-2m-2020y 19h:2m:43s.278ms):: ::DETECT:: ship(1) has 0 votes
+(8d-2m-2020y 19h:2m:43s.278ms):: ::DETECT:: ship(2) has 0 votes
+(8d-2m-2020y 19h:2m:43s.278ms):: ::DETECT:: ship(3) has 0 votes
+(8d-2m-2020y 19h:2m:43s.278ms):: ::DETECT:: ship(4) has 1 votes
+(8d-2m-2020y 19h:2m:43s.278ms):: ::DETECT:: ship(5) has 1 votes
+(8d-2m-2020y 19h:2m:43s.599ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:2m:43s.599ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:2m:45s.278ms):: ::ID_SHIP::Search ship[?] id=2 for 10sec
+(8d-2m-2020y 19h:2m:51s.279ms):: ::DETECT:: ship(0) has 3 votes
+(8d-2m-2020y 19h:2m:51s.279ms):: ::DETECT:: ship(1) has 0 votes
+(8d-2m-2020y 19h:2m:51s.279ms):: ::DETECT:: ship(2) has 0 votes
+(8d-2m-2020y 19h:2m:51s.279ms):: ::DETECT:: ship(3) has 0 votes
+(8d-2m-2020y 19h:2m:51s.279ms):: ::DETECT:: ship(4) has 0 votes
+(8d-2m-2020y 19h:2m:51s.279ms):: ::DETECT:: ship(5) has 3 votes
+(8d-2m-2020y 19h:2m:53s.279ms):: ::ID_SHIP::Search ship[?] id=3 for 10sec
+(8d-2m-2020y 19h:2m:54s.620ms)::ERROR::LOST ship[3].id=-1 - off ship coils, alert
+(8d-2m-2020y 19h:2m:54s.620ms):: ::init ship [-1 -1]
+(8d-2m-2020y 19h:2m:54s.620ms)::ERROR::DETECT_END
+(8d-2m-2020y 19h:2m:54s.620ms)::WARNING::RELEASE 3 lid=-1
+(8d-2m-2020y 19h:2m:54s.622ms):: ::REstart detection for ship[0]
+(8d-2m-2020y 19h:2m:54s.645ms):: ::SHIP::REUSE 3
+(8d-2m-2020y 19h:2m:54s.645ms):: ::init ship [7 13]
+(8d-2m-2020y 19h:2m:54s.650ms):: ::ship[i].crv_id = -1
+(8d-2m-2020y 19h:2m:54s.650ms):: ::ship_get_closest_curve:: use curve 2
+(8d-2m-2020y 19h:2m:57s.834ms):: ::(3)power alarm clear on controller 21
+(8d-2m-2020y 19h:2m:57s.964ms)::ERROR::(2)power alarm on controller 21
+(8d-2m-2020y 19h:2m:58s.244ms):: ::(3)power alarm clear on controller 21
+(8d-2m-2020y 19h:2m:58s.278ms)::ERROR::LOST ship[4].id=-1 - off ship coils, alert
+(8d-2m-2020y 19h:2m:58s.278ms):: ::init ship [-1 -1]
+(8d-2m-2020y 19h:2m:58s.278ms)::ERROR::DETECT_END
+(8d-2m-2020y 19h:2m:58s.278ms)::WARNING::RELEASE 4 lid=-1
+(8d-2m-2020y 19h:2m:58s.278ms):: ::REstart detection for ship[0]
+(8d-2m-2020y 19h:2m:58s.283ms):: ::SHIP::REUSE 4
+(8d-2m-2020y 19h:2m:58s.283ms):: ::init ship [2 15]
+(8d-2m-2020y 19h:2m:58s.283ms):: ::ship[i].crv_id = -1
+(8d-2m-2020y 19h:2m:58s.283ms):: ::ship_get_closest_curve:: use curve 3
+(8d-2m-2020y 19h:2m:59s.280ms):: ::DETECT:: ship(0) has 0 votes
+(8d-2m-2020y 19h:2m:59s.280ms):: ::DETECT:: ship(1) has 0 votes
+(8d-2m-2020y 19h:2m:59s.280ms):: ::DETECT:: ship(2) has 0 votes
+(8d-2m-2020y 19h:2m:59s.280ms):: ::DETECT:: ship(3) has 0 votes
+(8d-2m-2020y 19h:2m:59s.280ms):: ::DETECT:: ship(4) has 0 votes
+(8d-2m-2020y 19h:2m:59s.280ms):: ::DETECT:: ship(5) has 0 votes
+(8d-2m-2020y 19h:3m:1s.280ms):: ::ID_SHIP::Search ship[?] id=4 for 10sec
+(8d-2m-2020y 19h:3m:3s.309ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:3m:3s.309ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:3m:7s.281ms):: ::DETECT:: ship(0) has 0 votes
+(8d-2m-2020y 19h:3m:7s.281ms):: ::DETECT:: ship(1) has 0 votes
+(8d-2m-2020y 19h:3m:7s.281ms):: ::DETECT:: ship(2) has 12 votes
+(8d-2m-2020y 19h:3m:7s.281ms):: ::DETECT:: ship(3) has 0 votes
+(8d-2m-2020y 19h:3m:7s.281ms):: ::DETECT:: ship(4) has 0 votes
+(8d-2m-2020y 19h:3m:7s.281ms):: ::DETECT:: ship(5) has 0 votes
+(8d-2m-2020y 19h:3m:7s.281ms):: ::read from SBR[4] |speed=0.510902 crv_id=0 follow_id=0 action=По траектории|
+(8d-2m-2020y 19h:3m:7s.281ms):: ::DETECT_END::BLINK::setup ship(2) id=ship_to_detect(4) has 12 votes
+(8d-2m-2020y 19h:3m:7s.284ms):: ::REstart detection for ship[0]
+(8d-2m-2020y 19h:3m:7s.285ms):: ::ship[i].crv_id = 0
+(8d-2m-2020y 19h:3m:7s.285ms):: ::ship_get_closest_curve:: use curve 1
+(8d-2m-2020y 19h:3m:9s.281ms):: ::ID_SHIP::Search ship[?] id=5 for 10sec
+(8d-2m-2020y 19h:3m:15s.282ms):: ::DETECT:: ship(0) has 0 votes
+(8d-2m-2020y 19h:3m:15s.282ms):: ::DETECT:: ship(1) has 0 votes
+(8d-2m-2020y 19h:3m:15s.282ms):: ::DETECT:: ship(2) has 0 votes
+(8d-2m-2020y 19h:3m:15s.282ms):: ::DETECT:: ship(3) has 13 votes
+(8d-2m-2020y 19h:3m:15s.282ms):: ::DETECT:: ship(4) has 0 votes
+(8d-2m-2020y 19h:3m:15s.282ms):: ::DETECT:: ship(5) has 0 votes
+(8d-2m-2020y 19h:3m:15s.282ms):: ::read from SBR[5] |speed=0.518703 crv_id=2 follow_id=0 action=По траектории|
+(8d-2m-2020y 19h:3m:15s.282ms):: ::DETECT_END::BLINK::setup ship(3) id=ship_to_detect(5) has 13 votes
+(8d-2m-2020y 19h:3m:15s.285ms):: ::REstart detection for ship[0]
+(8d-2m-2020y 19h:3m:17s.282ms):: ::ID_SHIP::Search ship[?] id=6 for 10sec
+(8d-2m-2020y 19h:3m:23s.38ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:3m:23s.39ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:3m:23s.283ms):: ::DETECT:: ship(0) has 0 votes
+(8d-2m-2020y 19h:3m:23s.283ms):: ::DETECT:: ship(1) has 0 votes
+(8d-2m-2020y 19h:3m:23s.283ms):: ::DETECT:: ship(2) has 0 votes
+(8d-2m-2020y 19h:3m:23s.283ms):: ::DETECT:: ship(3) has 1 votes
+(8d-2m-2020y 19h:3m:23s.283ms):: ::DETECT:: ship(4) has 0 votes
+(8d-2m-2020y 19h:3m:23s.283ms):: ::DETECT:: ship(5) has 0 votes
+(8d-2m-2020y 19h:3m:25s.283ms):: ::ID_SHIP::Search ship[?] id=7 for 10sec
+(8d-2m-2020y 19h:3m:31s.285ms):: ::DETECT:: ship(0) has 0 votes
+(8d-2m-2020y 19h:3m:31s.285ms):: ::DETECT:: ship(1) has 0 votes
+(8d-2m-2020y 19h:3m:31s.285ms):: ::DETECT:: ship(2) has 0 votes
+(8d-2m-2020y 19h:3m:31s.285ms):: ::DETECT:: ship(3) has 0 votes
+(8d-2m-2020y 19h:3m:31s.285ms):: ::DETECT:: ship(4) has 0 votes
+(8d-2m-2020y 19h:3m:31s.285ms):: ::DETECT:: ship(5) has 11 votes
+(8d-2m-2020y 19h:3m:31s.285ms):: ::read from SBR[7] |speed=0.371017 crv_id=0 follow_id=0 action=По траектории|
+(8d-2m-2020y 19h:3m:31s.285ms):: ::DETECT_END::BLINK::setup ship(5) id=ship_to_detect(7) has 11 votes
+(8d-2m-2020y 19h:3m:31s.286ms):: ::REstart detection for ship[0]
+(8d-2m-2020y 19h:3m:31s.286ms):: ::ship[i].crv_id = 0
+(8d-2m-2020y 19h:3m:31s.286ms):: ::ship_get_closest_curve:: use curve 2
+(8d-2m-2020y 19h:3m:33s.285ms):: ::ID_SHIP::Search ship[?] id=1 for 10sec
+(8d-2m-2020y 19h:3m:39s.286ms):: ::DETECT:: ship(0) has 0 votes
+(8d-2m-2020y 19h:3m:39s.286ms):: ::DETECT:: ship(1) has 14 votes
+(8d-2m-2020y 19h:3m:39s.286ms):: ::DETECT:: ship(2) has 0 votes
+(8d-2m-2020y 19h:3m:39s.286ms):: ::DETECT:: ship(3) has 0 votes
+(8d-2m-2020y 19h:3m:39s.286ms):: ::DETECT:: ship(4) has 0 votes
+(8d-2m-2020y 19h:3m:39s.286ms):: ::DETECT:: ship(5) has 0 votes
+(8d-2m-2020y 19h:3m:39s.286ms):: ::read from SBR[1] |speed=0.350820 crv_id=0 follow_id=0 action=По траектории|
+(8d-2m-2020y 19h:3m:39s.286ms):: ::DETECT_END::BLINK::setup ship(1) id=ship_to_detect(1) has 14 votes
+(8d-2m-2020y 19h:3m:39s.286ms):: ::REstart detection for ship[0]
+(8d-2m-2020y 19h:3m:39s.287ms):: ::ship[i].crv_id = 0
+(8d-2m-2020y 19h:3m:39s.287ms):: ::ship_get_closest_curve:: use curve 2
+(8d-2m-2020y 19h:3m:41s.286ms):: ::ID_SHIP::Search ship[?] id=2 for 10sec
+(8d-2m-2020y 19h:3m:42s.768ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:3m:42s.768ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:3m:47s.287ms):: ::DETECT:: ship(0) has 12 votes
+(8d-2m-2020y 19h:3m:47s.287ms):: ::DETECT:: ship(1) has 0 votes
+(8d-2m-2020y 19h:3m:47s.287ms):: ::DETECT:: ship(2) has 0 votes
+(8d-2m-2020y 19h:3m:47s.287ms):: ::DETECT:: ship(3) has 0 votes
+(8d-2m-2020y 19h:3m:47s.287ms):: ::DETECT:: ship(4) has 0 votes
+(8d-2m-2020y 19h:3m:47s.287ms):: ::DETECT:: ship(5) has 0 votes
+(8d-2m-2020y 19h:3m:47s.287ms):: ::read from SBR[2] |speed=0.604917 crv_id=3 follow_id=0 action=По траектории|
+(8d-2m-2020y 19h:3m:47s.287ms):: ::DETECT_END::BLINK::setup ship(0) id=ship_to_detect(2) has 12 votes
+(8d-2m-2020y 19h:3m:47s.296ms):: ::REstart detection for ship[4]
+(8d-2m-2020y 19h:3m:49s.288ms):: ::ID_SHIP::Search ship[?] id=3 for 10sec
+(8d-2m-2020y 19h:3m:55s.289ms):: ::DETECT:: ship(0) has 0 votes
+(8d-2m-2020y 19h:3m:55s.289ms):: ::DETECT:: ship(1) has 0 votes
+(8d-2m-2020y 19h:3m:55s.289ms):: ::DETECT:: ship(2) has 0 votes
+(8d-2m-2020y 19h:3m:55s.289ms):: ::DETECT:: ship(3) has 0 votes
+(8d-2m-2020y 19h:3m:55s.289ms):: ::DETECT:: ship(4) has 13 votes
+(8d-2m-2020y 19h:3m:55s.289ms):: ::DETECT:: ship(5) has 0 votes
+(8d-2m-2020y 19h:3m:55s.289ms):: ::read from SBR[3] |speed=0.508501 crv_id=3 follow_id=0 action=По траектории|
+(8d-2m-2020y 19h:3m:55s.289ms):: ::DETECT_END::BLINK::setup ship(4) id=ship_to_detect(3) has 13 votes
+(8d-2m-2020y 19h:3m:55s.289ms):: ::ALL Ships - Autopilot
+(8d-2m-2020y 19h:3m:55s.289ms):: ::no undetected ships - turn on autopilot
+(8d-2m-2020y 19h:4m:2s.498ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:4m:2s.499ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:4m:22s.227ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:4m:22s.227ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:4m:41s.960ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:4m:41s.961ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:5m:1s.688ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:5m:1s.688ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:5m:21s.416ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:5m:21s.417ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:5m:41s.149ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:5m:41s.149ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:6m:0s.876ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:6m:0s.876ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:6m:20s.608ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:6m:20s.609ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:6m:40s.335ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:6m:40s.335ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:6m:45s.10ms)::ERROR::LOST ship[2].id=4 - off ship coils, alert
+(8d-2m-2020y 19h:6m:45s.10ms):: ::init ship [-1 -1]
+(8d-2m-2020y 19h:6m:45s.10ms):: ::REstart detection for ship[2]
+(8d-2m-2020y 19h:6m:45s.18ms):: ::SM::add ship 6
+(8d-2m-2020y 19h:6m:45s.18ms):: ::init ship [3 6]
+(8d-2m-2020y 19h:6m:45s.20ms):: ::ship[i].crv_id = -1
+(8d-2m-2020y 19h:6m:45s.20ms):: ::ship_get_closest_curve:: use curve 1
+(8d-2m-2020y 19h:6m:45s.332ms):: ::ID_SHIP::Search ship[?] id=4 for 10sec
+(8d-2m-2020y 19h:6m:50s.19ms)::ERROR::ship[2].-1::warn_collision=true
+(8d-2m-2020y 19h:6m:51s.334ms):: ::DETECT:: ship(0) has 0 votes
+(8d-2m-2020y 19h:6m:51s.334ms):: ::DETECT:: ship(1) has 0 votes
+(8d-2m-2020y 19h:6m:51s.334ms):: ::DETECT:: ship(2) has 0 votes
+(8d-2m-2020y 19h:6m:51s.334ms):: ::DETECT:: ship(3) has 0 votes
+(8d-2m-2020y 19h:6m:51s.334ms):: ::DETECT:: ship(4) has 0 votes
+(8d-2m-2020y 19h:6m:51s.334ms):: ::DETECT:: ship(5) has 0 votes
+(8d-2m-2020y 19h:6m:51s.334ms):: ::DETECT:: ship(6) has 12 votes
+(8d-2m-2020y 19h:6m:51s.334ms):: ::read from SBR[4] |speed=0.455206 crv_id=1 follow_id=0 action=По траектории|
+(8d-2m-2020y 19h:6m:51s.334ms):: ::DETECT_END::BLINK::setup ship(6) id=ship_to_detect(4) has 12 votes
+(8d-2m-2020y 19h:6m:51s.336ms):: ::REstart detection for ship[2]
+(8d-2m-2020y 19h:6m:51s.346ms)::ERROR::DETECT_END
+(8d-2m-2020y 19h:6m:51s.346ms)::WARNING::RELEASE 2 lid=4
+(8d-2m-2020y 19h:7m:0s.73ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:7m:0s.74ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:7m:19s.798ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:7m:19s.798ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:7m:39s.527ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:7m:39s.527ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:7m:59s.276ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:7m:59s.279ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:8m:2s.784ms)::ERROR::(2)power alarm on controller 21
+(8d-2m-2020y 19h:8m:18s.987ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:8m:18s.999ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:8m:26s.105ms):: ::(3)power alarm clear on controller 21
+(8d-2m-2020y 19h:8m:38s.717ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:8m:38s.717ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:8m:58s.441ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:8m:58s.447ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:9m:18s.186ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:9m:18s.186ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:9m:37s.906ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:9m:37s.907ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:9m:57s.640ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:9m:57s.648ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:10m:17s.360ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:10m:17s.361ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:10m:37s.103ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:10m:37s.115ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:10m:56s.821ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:10m:56s.822ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:11m:16s.551ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:11m:16s.551ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:11m:36s.280ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:11m:36s.280ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:11m:56s.12ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:11m:56s.12ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:11m:56s.682ms)::ERROR::(2)power alarm on controller 21
+(8d-2m-2020y 19h:12m:15s.748ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:12m:15s.748ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:12m:35s.471ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:12m:35s.482ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:12m:55s.194ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:12m:55s.198ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:13m:14s.926ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:13m:14s.940ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:13m:34s.655ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:13m:34s.662ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:13m:54s.392ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:13m:54s.394ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:14m:14s.123ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:14m:14s.123ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:14m:33s.860ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:14m:33s.860ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:14m:53s.581ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:14m:53s.585ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:15m:13s.305ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:15m:13s.305ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:15m:33s.51ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:15m:33s.51ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:15m:36s.578ms):: ::Menu Exit - stop all ships
+(8d-2m-2020y 19h:15m:36s.578ms)::ERROR::ALL Ships - Stop
+(8d-2m-2020y 19h:15m:52s.766ms)::ERROR::(2)power alarm on controller 31
+(8d-2m-2020y 19h:15m:52s.768ms)::ERROR::(2)power alarm on controller 36
+(8d-2m-2020y 19h:15m:57s.704ms):: ::--------- end main loop ---------
+(8d-2m-2020y 19h:15m:57s.704ms):: ::TURN OFF ALL COILS ml=1092
+(8d-2m-2020y 19h:15m:59s.301ms)::WARNING::MCMD::exit loop
+(8d-2m-2020y 19h:15m:59s.374ms):: ::CoilsDisconnect();CoilsExit();
+(8d-2m-2020y 19h:15m:59s.399ms):: ::MM::Unload Begin()
+(8d-2m-2020y 19h:15m:59s.399ms):: ::MM::Tex0:[CheckerBoard.gen]
+(8d-2m-2020y 19h:15m:59s.399ms):: ::MM::Tex1:[MS Sans Serif]
+(8d-2m-2020y 19h:15m:59s.399ms):: ::MM::Unload End()
+(8d-2m-2020y 19h:15m:59s.399ms):: ::_exit(1)

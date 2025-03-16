@@ -1,0 +1,299 @@
+(15d-4m-2023y 1h:33m:37s.822ms):: ::CLOG->constructor
+(15d-4m-2023y 1h:33m:37s.822ms):: ::PROFILER constructor
+(15d-4m-2023y 1h:33m:37s.837ms):: ::Host:'Home' have 1 local addr
+(15d-4m-2023y 1h:33m:37s.837ms):: ::IP: 192.168.1.8
+(15d-4m-2023y 1h:33m:37s.837ms):: ::start server on '192.168.1.8:5555'
+(15d-4m-2023y 1h:33m:37s.837ms):: ::load ship config [Bajennix.ship]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read ship name [Торговое судно 2]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read ship can_id [5]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [55]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [27]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [9]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [data\\ship_5.jpg]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [0.300000]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [1073741824]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::load ship config [Diana.ship]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read ship name [яхта Диана]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read ship can_id [6]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [47]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [17]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [8]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [data\\ship_6.jpg]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [0.500000]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [0]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::load ship config [evstafij.ship]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read ship name [Евстафий Плакида 
+ 1763 66-пуш]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read ship can_id [4]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [74]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [25]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [13]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [data\\ship_4.jpg]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [0.500000]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [0]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::load ship config [fregat_russia.ship]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read ship name [фрегат Россия 
+ 1724 32-пуш]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read ship can_id [2]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [59]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [16]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [8]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [data\\ship_2.jpg]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [0.350000]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [1610612736]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::load ship config [gavriil.ship]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read ship name [линкор Гавриил 
+ 1713 66-пуш]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read ship can_id [3]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [82]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [27]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [16]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [data\\ship_3.jpg]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [0.500000]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [0]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::load ship config [torgovoe3.ship]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read ship name [Торговое 
+ судно 3]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read ship can_id [7]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [55]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [19]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [7]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [data\\ship_7.jpg]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [0.500000]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [0]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::load ship config [tor_sudno.ship]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read ship name [Торговое 
+ судно 1]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read ship can_id [1]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [46]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [15]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [4]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [data\\ship_1.jpg]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [0.500000]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::read [0]
+(15d-4m-2023y 1h:33m:37s.837ms):: ::----init ExcludeBlobs
+(15d-4m-2023y 1h:33m:37s.837ms):: ::CAPM init
+(15d-4m-2023y 1h:33m:38s.25ms):: ::--------- start init loop ---------
+(15d-4m-2023y 1h:33m:38s.25ms):: ::OS:Windows 8 build[9200] Ver[6/2] SP[0/0]
+(15d-4m-2023y 1h:33m:38s.25ms):: ::Computer name: HOME
+(15d-4m-2023y 1h:33m:38s.25ms):: ::OEM ID: 0, 8 processors, Page size: 4096, Processor type: 586
+(15d-4m-2023y 1h:33m:38s.25ms):: ::Create OpenGL Window [1920x1080] fullscreen
+(15d-4m-2023y 1h:33m:38s.431ms):: ::OpenGl 4.4.0
+(15d-4m-2023y 1h:33m:38s.431ms):: ::Vendor NVIDIA Corporation
+(15d-4m-2023y 1h:33m:38s.431ms):: ::Render GeForce GT 640/PCIe/SSE2
+(15d-4m-2023y 1h:33m:38s.431ms):: ::Vsync is off
+(15d-4m-2023y 1h:33m:38s.431ms):: ::MM::initialized
+(15d-4m-2023y 1h:33m:38s.447ms):: ::Font::create texture (256x256)128Kb
+(15d-4m-2023y 1h:33m:38s.447ms):: ::MM::register texture [Comic Sans MS] [t2]
+(15d-4m-2023y 1h:33m:38s.447ms):: ::Font::create texture (512x512)512Kb
+(15d-4m-2023y 1h:33m:38s.462ms):: ::MM::register texture [Consolas] [t3]
+(15d-4m-2023y 1h:33m:38s.462ms)::ERROR::mode == 1
+(15d-4m-2023y 1h:33m:38s.462ms):: ::Thread::launch
+(15d-4m-2023y 1h:33m:38s.462ms):: ::Thread::launch
+(15d-4m-2023y 1h:33m:38s.462ms):: ::MM::initialized
+(15d-4m-2023y 1h:33m:38s.462ms):: ::DXF::load [CAD\base.dxf]
+(15d-4m-2023y 1h:33m:40s.884ms):: ::NET:Create():Binded on '192.168.1.8:5555'
+(15d-4m-2023y 1h:33m:40s.884ms):: ::waiting for connection
+(15d-4m-2023y 1h:33m:42s.822ms):: ::DXF::load [CAD\cam_centers.dxf]
+(15d-4m-2023y 1h:33m:42s.822ms):: ::DXF::load [CAD\relief.dxf]
+(15d-4m-2023y 1h:33m:42s.838ms):: ::DXF::load [CAD\shore.dxf]
+(15d-4m-2023y 1h:33m:42s.869ms):: ::DXF::load [CAD\coils.dxf]
+(15d-4m-2023y 1h:33m:42s.947ms):: ::DXF::load [CAD\cam_pos.dxf]
+(15d-4m-2023y 1h:33m:45s.542ms):: ::UI::Init()
+(15d-4m-2023y 1h:33m:45s.542ms):: ::Font::create texture (256x128)64Kb
+(15d-4m-2023y 1h:33m:45s.546ms):: ::MM::register texture [MS Sans Serif] [t5]
+(15d-4m-2023y 1h:33m:45s.546ms):: ::reinit UI
+(15d-4m-2023y 1h:33m:45s.546ms):: ::load trajectory default.traj
+(15d-4m-2023y 1h:33m:45s.556ms):: ::start load cmaps
+(15d-4m-2023y 1h:33m:45s.556ms):: ::load [data\curve0.cmap]
+(15d-4m-2023y 1h:33m:45s.557ms):: ::load [data\curve1.cmap]
+(15d-4m-2023y 1h:33m:45s.557ms):: ::load [data\curve2.cmap]
+(15d-4m-2023y 1h:33m:45s.557ms):: ::load [data\curve3.cmap]
+(15d-4m-2023y 1h:33m:45s.557ms)::ERROR::can't open [data\curve3.cmap]
+(15d-4m-2023y 1h:33m:45s.557ms):: ::load [data\curve4.cmap]
+(15d-4m-2023y 1h:33m:45s.557ms)::ERROR::can't open [data\curve4.cmap]
+(15d-4m-2023y 1h:33m:45s.557ms):: ::load [data\curve5.cmap]
+(15d-4m-2023y 1h:33m:45s.557ms)::ERROR::can't open [data\curve5.cmap]
+(15d-4m-2023y 1h:33m:45s.557ms):: ::load [data\curve6.cmap]
+(15d-4m-2023y 1h:33m:45s.557ms)::ERROR::can't open [data\curve6.cmap]
+(15d-4m-2023y 1h:33m:45s.557ms):: ::load [data\curve7.cmap]
+(15d-4m-2023y 1h:33m:45s.557ms)::ERROR::can't open [data\curve7.cmap]
+(15d-4m-2023y 1h:33m:45s.557ms):: ::load [data\curve8.cmap]
+(15d-4m-2023y 1h:33m:45s.557ms)::ERROR::can't open [data\curve8.cmap]
+(15d-4m-2023y 1h:33m:45s.557ms):: ::load [data\curve9.cmap]
+(15d-4m-2023y 1h:33m:45s.557ms)::ERROR::can't open [data\curve9.cmap]
+(15d-4m-2023y 1h:33m:45s.557ms):: ::load [data\curve10.cmap]
+(15d-4m-2023y 1h:33m:45s.557ms)::ERROR::can't open [data\curve10.cmap]
+(15d-4m-2023y 1h:33m:45s.557ms):: ::load trajectory default.traj
+(15d-4m-2023y 1h:33m:45s.558ms):: ::Thread::launch
+(15d-4m-2023y 1h:33m:45s.558ms):: ::COM:: start thread at [COM3]
+(15d-4m-2023y 1h:33m:45s.558ms):: ::TRY OPEN COMPORT COM3
+(15d-4m-2023y 1h:33m:45s.558ms)::WARNING::W2C::enter loop 1
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(0) total(1)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(1) total(2)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(2) total(3)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(3) total(4)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(4) total(5)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(5) total(6)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(6) total(7)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(7) total(8)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(8) total(9)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(9) total(10)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(10) total(11)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(11) total(12)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(12) total(13)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(13) total(14)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(14) total(15)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(15) total(16)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(16) total(17)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(17) total(18)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(18) total(19)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(19) total(20)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(20) total(21)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(21) total(22)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(22) total(23)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(23) total(24)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(24) total(25)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(25) total(26)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(26) total(27)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(27) total(28)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(28) total(29)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(29) total(30)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(30) total(31)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(31) total(32)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(32) total(33)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(33) total(34)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(34) total(35)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::CTRL::ADD controller(35) total(36)
+(15d-4m-2023y 1h:33m:45s.559ms):: ::LOADED 36 controllers
+(15d-4m-2023y 1h:33m:45s.560ms)::ERROR::EXBOX: loaded 138
+(15d-4m-2023y 1h:33m:45s.560ms):: ::Thread::launch
+(15d-4m-2023y 1h:33m:45s.560ms):: ::Thread::launch
+(15d-4m-2023y 1h:33m:45s.560ms)::WARNING::MCMD::enter loop
+(15d-4m-2023y 1h:33m:45s.560ms):: ::ID_SHIP::START
+(15d-4m-2023y 1h:33m:45s.561ms):: ::CoilsInit(example_callback)
+(15d-4m-2023y 1h:33m:45s.699ms):: ::Thread::launch
+(15d-4m-2023y 1h:33m:45s.700ms):: ::--------- start main loop ---------
+(15d-4m-2023y 1h:33m:45s.700ms)::WARNING::CAM::enter loop 0
+(15d-4m-2023y 1h:33m:45s.700ms):: ::init cameras 105(105)
+(15d-4m-2023y 1h:33m:45s.702ms):: ::HTTP_ping start loop thread for [192.168.1.254]
+(15d-4m-2023y 1h:33m:45s.724ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.726ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.727ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.728ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.730ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.731ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.733ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.735ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.737ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.738ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.738ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.738ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.739ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.740ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.740ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.741ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.741ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.742ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.743ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.744ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.745ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.746ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.747ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.748ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.750ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.751ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.752ms):: ::OPENNED COMPORT COM3
+(15d-4m-2023y 1h:33m:45s.752ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.753ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.754ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.755ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.756ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.757ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.758ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.759ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.760ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.761ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.762ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.763ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.764ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.765ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.766ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.766ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.767ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.768ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.769ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.770ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.771ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.772ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.772ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.773ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.774ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.775ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.776ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.778ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.779ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.780ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.781ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.782ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.784ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.785ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.786ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.787ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.788ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.789ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.790ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.791ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.792ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.793ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.793ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.794ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.795ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.795ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.796ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.796ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.797ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.797ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.798ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.798ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.799ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.799ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.800ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.800ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.801ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.801ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.802ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.802ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.803ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.803ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.804ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.804ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.805ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.806ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.806ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.807ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.808ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.809ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.809ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.810ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.811ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.811ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.812ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.812ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.813ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.813ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.814ms)::WARNING::------ debug ----- CAM:: loaded []
+(15d-4m-2023y 1h:33m:45s.814ms)::WARNING::CAM::exit loop 0
+(15d-4m-2023y 1h:33m:47s.588ms):: ::Menu Exit - stop all ships
+(15d-4m-2023y 1h:33m:47s.588ms)::ERROR::ALL Ships - Stop
+(15d-4m-2023y 1h:33m:47s.590ms):: ::--------- end main loop ---------
+(15d-4m-2023y 1h:33m:47s.590ms):: ::TURN OFF ALL COILS ml=1092
+(15d-4m-2023y 1h:33m:48s.96ms):: ::CoilsConnect();
+(15d-4m-2023y 1h:33m:48s.96ms)::ERROR::DEV_MODE=0
+(15d-4m-2023y 1h:33m:48s.197ms)::WARNING::MCMD::exit loop
+(15d-4m-2023y 1h:33m:48s.363ms):: ::CoilsDisconnect();CoilsExit();
+(15d-4m-2023y 1h:33m:48s.400ms):: ::MM::Unload Begin()
+(15d-4m-2023y 1h:33m:48s.400ms):: ::MM::Tex0:[CheckerBoard.gen]
+(15d-4m-2023y 1h:33m:48s.400ms):: ::MM::Tex1:[MS Sans Serif]
+(15d-4m-2023y 1h:33m:48s.400ms):: ::MM::Unload End()
+(15d-4m-2023y 1h:33m:48s.400ms):: ::_exit(1)

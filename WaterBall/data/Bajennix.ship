@@ -1,0 +1,8 @@
+name:Торговое судно 2
+can_id:5
+length_cm:55
+nose_magnet_offset_cm:27
+tail_magnet_offset_cm:9
+icon:data\\ship_5.jpg
+speed:0.3
+traj_curve:2

@@ -1,0 +1,8 @@
+name:Торговое\n судно 1
+can_id:1
+length_cm:46
+nose_magnet_offset_cm:15
+tail_magnet_offset_cm:4
+icon:data\\ship_1.jpg
+speed:0.5
+traj_curve:0
